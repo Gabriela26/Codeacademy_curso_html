@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Listas aninhadas</title>
+	</head>
+	<body>
+		<ol>
+			<li>Interesses do Papai
+				<ul>
+					<li>futebol</li>
+					<li>crochê</li>
+				</ul>
+			</li>
+			<li>Interesses da Mamãe
+				<ul>
+					<li>detestar futebol</li>
+					<li>paraquedismo</li>
+				</ul>
+			</li>
+		</ol>
+		  <li>Nomes Favoritos de meninos</li>
+		  <ul>
+		    <li>Gabriel</li>
+		    <li>Daniel</li>
+		    <li>Natanael</li>
+		  </ul>
+		   <li>Nomes Favoritos de meninas</li> 
+		   <ul>
+		     <li>Gabriele</li>
+		     <li>Amanda</li>
+		     <li>Gabriela</li>		    
+		  </ul>
+		</lo>   
+	
+	</body>
+</html>
