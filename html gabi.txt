@@ -1,0 +1,47 @@
+HTML> esqueleto, estrutura das paginas                                                            (o trabalho de um navegador é transformar o cód. html em pagina)
+STRONG> deixa o texto em negrito
+CSS> folhas de estilo em cascata
+<!DOCTYPE html> primeira linha, sinaliza a linguagem a qual está lendo
+<html>para abrir documento, ou seja, dar inicio
+</html>fim do doc
+<> as coisas dentro das aspas sao chamadas de teg
+<html>teg de abertura
+</html>teg de fechamento
+<head> cabeçalho, e  no cabeçalho vai o <title>  entao: <head><title>Minha Pagina</title></head>
+<body>corpo
+<p>paragráfo</p>
+<h1> titulo, escolher tamanho fonte, vai no corpo                                                  <h1> - O chefe
+                                                                                                                                           <h2> - Vice presidente
+                                                                                                                                           <h3> - Diretor
+                                                                                                                                           <h4> - Gerente
+                                                                                                                                           <h5> - Assistente
+                                                                                                                                           <h6> - Menino do café
+
+<a> atributo <href>
+<img>tag de imagens   /   para adicionar imagens vou ter que dizer onde ela se encontra usando src, ela é diferente pois n tem a teg de fechamento,
+                                              usamos / na teg para ser fechada. EX :<img src="url" />. ou seja: :<img src= mais o link
+                                               Para transformar a imagem em link usa se: <a href= mais o link e fecha com </a>
+
+A açao de uma teg dentro da otra se chama ANINHAMENTO
+
+HREF referencia
+
+Imagem vai dentro do link:  
+<a href='link">
+        <img src=''link''/>
+</a>
+
+PROJETO DE UMA PAGINA EX:
+!DOCTYPE html>
+<html>
+	<head>
+		<title>Resultado</title>
+	</head>
+	<body><h1>YEAH SANDUÍCHES</h1>
+	<img src="http://msalx.vejasp.abril.com.br/2012/12/28/1441/TFApt/the-fifties-sanduiche-veneza.jpeg?1356713022" />
+		<p>Eu gosto de ovos.</p>
+		<p>E de presunto!</p>
+		<p>Mas gosto mesmo é de sanduíches.</p>
+	</body>
+</html>
+                                               
