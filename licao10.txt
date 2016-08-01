@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Amando as mudanças de fontes</title>
+	</head>
+	<body>
+		<h1 style="font-family: Arial">Título Grande</h1>
+		 <ol>
+		 	<li style="font-size: 16px; font-family: Arial">Este é um grande item em Arial.</li>
+		 	<li style="font-size: 12px; font-family: Verdana">Este é um item médio em Verdana.</li>
+		 	<li style="font-size: 10px; font-family: Impact">Este é um item pequeno em Impact.</li>
+		 </ol>
+	</body>
+</html>
